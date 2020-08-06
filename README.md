@@ -2,9 +2,11 @@
 
 ## Application URL
 
-My code quiz website can be found at [Team Generator](https://sheldonmall.github.io/team-generator/) 
+My code can be found at [Team Generator](https://sheldonmall.github.io/team-generator/) 
 
 ![Team Page](./MyTeam.png)
+
+![Test Result](./testresult.png)
 
 ## Description
 
